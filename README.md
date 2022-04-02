@@ -1,4 +1,7 @@
 # a-coin
+
+[![Join the chat at https://gitter.im/wangalan0118/PYEBI](https://badges.gitter.im/wangalan0118/PYEBI.svg)](https://gitter.im/wangalan0118/PYEBI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 母體概念智能合約
 
 
